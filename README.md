@@ -1,4 +1,7 @@
 
+# 💫 About Me:
+I'm a passionate full-stack developer and tech enthusiast with a love for solving problems and building cool projects. Currently leading full-stack projects and always on the lookout for the next exciting challenge!<br><br>🚀 What I do:<br>Full-Stack Development (NestJS, React, Vue.js, and more)<br>Database Design (SQL, MongoDB)<br>Data Visualization (R, ggplot2)<br><br>🔧 Tools I love:<br>Coding: TypeScript, JavaScript<br>Frameworks: NestJS, React, Vue.js, ExpressJS<br>Data: SQL Server, MongoDB<br>DevOps: Git, Vite, CI/CD<br><br>💡 What I'm into:<br>Building systems that make a difference<br>Exploring new tech and frameworks<br>Continuous learning and personal growth<br>Collaborating with awesome people!
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/phuvu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/phu.vu.735507/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phuzudeyy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vũ-thiên-phú-2534a1275/) 
 
@@ -8,10 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuvu270904&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvu270904&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=phuvu270904&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=phuvu270904&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
