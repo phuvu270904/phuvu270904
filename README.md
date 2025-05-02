@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me::
 I'm a passionate full-stack developer and tech enthusiast with a love for solving problems and building cool projects. Currently leading full-stack projects and always on the lookout for the next exciting challenge!<br><br>🚀 What I do:<br>Full-Stack Development (NestJS, React, Vue.js, and more)<br>Database Design (SQL, MongoDB)<br><br>🔧 Tools I love:<br>Coding: TypeScript, JavaScript<br>Frameworks: NestJS, React, Vue.js, ExpressJS<br>Data: MySQL, MongoDB<br><br>💡 What I'm into:<br>Building systems that make a difference<br>Exploring new tech and frameworks<br>Continuous learning and personal growth<br>Collaborating with awesome people!
 
 # 🌐 Socials:
