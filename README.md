@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=phuvu270904&" alt="phuvu270904" /></p>
 
-<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phuvu270904/phuvu270904/output/snake.svg" width = 1500 alt="Snake animation" />
