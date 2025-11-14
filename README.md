@@ -15,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuvu270904&show_icons=true&locale=en&layout=compact" alt="phuvu270904" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=phuvu270904&" alt="phuvu270904" /></p>
+
+<img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
